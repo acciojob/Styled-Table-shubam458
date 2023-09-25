@@ -1,9 +1,30 @@
 /* your code */
-table{
-	border : 1px solid black;
-	border-radius : 10px;
-	background-color:pink;
+
+thead{
+
+	background-color:#215a8e;
+	color:white;
 }
-.c1{
-	background-color : Blue;
+
+table{
+	
+	border-collapse:collapse;
+		
+}
+
+tbody, thead{
+
+	border:1px solid black
+
+	border-radius:20px;
+	
+}
+
+.row-1{
+	background-color:white;
+}
+
+.row-2{
+	background-color:lightgray;
+	
 }
